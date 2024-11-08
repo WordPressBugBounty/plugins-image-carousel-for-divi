@@ -6,7 +6,7 @@
  * Author URI:      https://wptools.app
  * Text Domain:     image-carousel-using-divi
  * Domain Path:     /languages
- * Version:         1.8.0
+ * Version:         1.8.1
  *
  * @package         Divi_Carousel_Images
  */
@@ -17,7 +17,7 @@ require_once __DIR__ . '/freemius.php';
 $loader = \WPT\DiviCarouselImages\Loader::get_instance();
 
 $loader['name']    = 'Image Carousel For Divi';
-$loader['version'] = '1.8.0';
+$loader['version'] = '1.8.1';
 $loader['dir']     = __DIR__;
 $loader['url']     = plugins_url( '/' . basename( __DIR__ ) );
 $loader['file']    = __FILE__;

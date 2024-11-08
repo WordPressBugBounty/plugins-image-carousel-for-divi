@@ -3,7 +3,7 @@
         'name' => 'wpt00ls/image-carousel-for-divi',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '5b44cfb5760f5087ef0d7dbe2d5f5d434211c200',
+        'reference' => '7bb696cd2cee2121616c5222365acae775e0735e',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -24,7 +24,7 @@
         'wpt00ls/image-carousel-for-divi' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '5b44cfb5760f5087ef0d7dbe2d5f5d434211c200',
+            'reference' => '7bb696cd2cee2121616c5222365acae775e0735e',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
