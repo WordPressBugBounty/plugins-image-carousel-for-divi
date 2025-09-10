@@ -1,9 +1,9 @@
 === Image Carousel For Divi ===
-Contributors: wpt00ls, freemius
+Contributors: wpt00ls
 Tags: divi, image carousel, divi module
 Donate link: https://wptools.app/
 Requires at least: 4.9.8
-Tested up to: 6.6.2
+Tested up to: 6.8
 Stable tag: 1.8.1
 Requires PHP: 7.4
 License: GPLv2 or later
@@ -85,15 +85,25 @@ No, there are no dependencies for this plugin.
 * Tested with WordPress 5.4.2
 * Added compatibility for Divi 4.5.1+
 
+[//]: # fs_premium_only_begin
+=1.3.1=
+* Default values for images per slide in tablet and mobile view updated.
+[//]: # fs_premium_only_end
 
 = 1.3.0 =
 * [Bug fix] - Number of images moving per slide initial value was wrong. Fixed it. 
+[//]: # fs_premium_only_begin
+* Added `Vertical Alignment` field for images. Defaults to `center`
+[//]: # fs_premium_only_end
 
 = 1.2.0 =
 * Updated freemius SDK to 2.3.2
 * Moved settings from `WP Tools` to `Divi`. Removed parent `WP Tools` settings page.
 * Fixed advanced/toggle options in divi module for wp.org version.
 * Tested for WordPress 5.4
+[//]: # fs_premium_only_begin
+* Removed `Premium` label from premium divi module
+[//]: # fs_premium_only_end
 
 = 1.0.1 =
 * Added `Animation Speed` divi module field to control the speed of the image slide/fade.
