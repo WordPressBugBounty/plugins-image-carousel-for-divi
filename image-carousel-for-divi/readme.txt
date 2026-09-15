@@ -3,7 +3,7 @@ Contributors: wpt00ls
 Tags: divi, image carousel, divi module
 Donate link: https://wptools.app/
 Requires at least: 4.9.8
-Tested up to: 6.8
+Tested up to: 7.1
 Stable tag: 1.8.1
 Requires PHP: 7.4
 License: GPLv2 or later
